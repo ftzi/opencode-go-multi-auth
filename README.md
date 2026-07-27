@@ -23,7 +23,7 @@ Run multiple OpenCode Go accounts side-by-side. The plugin picks one account per
 ## Installation
 
 ```sh
-opencode plugin github:masrurimz/opencode-go-multi-auth --global
+opencode plugin github:ftzi/opencode-go-multi-auth --global
 ```
 
 This installs the plugin globally so every OpenCode session uses it.
